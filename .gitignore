@@ -61,3 +61,7 @@ desktop.ini
 
 # Audits are working notes for whoever runs them, not part of the source
 audit/
+
+# Local unpacked Windows MSI runtime binaries (used by VideoAffiliate bridge on Drive E)
+/app/
+
